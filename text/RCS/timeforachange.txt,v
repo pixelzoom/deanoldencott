@@ -1,0 +1,73 @@
+head	1.3;
+access;
+symbols;
+locks
+	cmalley:1.3; strict;
+comment	@# @;
+
+
+1.3
+date	2011.07.13.04.13.19;	author cmalley;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2011.07.13.04.11.42;	author cmalley;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2011.07.13.03.29.36;	author cmalley;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@<b>Time For A Change</b> (2011) reflects so many aspects of my life right now,
+it's really much more than an album title. It's really the "title track"
+that I took from my youth and rearranged into the drummer that I am today.
+This change also marks a time when I have dropped the "Matched Grip" and
+gone back to the "Traditional Grip" - the way that I started out playing as 
+a young drum student. It also marks a time when I'm not touring anymore,
+playing a million gigs in too short a time. Instead I'm just enjoying life
+as a teacher and mentor, living in the beautiful mountains of Colorado.
+I hope you enjoy this time for a change.
+<p>
+<b>Where to purchase ...</b>
+<p>
+Please send me an email at <a href="mailto:drumndino@@earthlink.net?subject=Time For A Change CD order">drumndino@@earthlink.net</a> to order a copy.
+<p>
+<b>Listen! ...</b>
+<p>
+Go to my <a href="audio.php">Audio</a> page to hear clips from the CD!
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d13 1
+a13 1
+Please send me an email at <a href="mailto:drumndino@@earthlink.net?subject=Interpretations CD order">drumndino@@earthlink.net</a> to order a copy.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d17 1
+a17 1
+Go to my <a href="http://www.deanoldencottdrummer.com/audio.php">Audio</a> page to hear clips from the CD!
+@

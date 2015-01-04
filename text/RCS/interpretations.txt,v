@@ -1,0 +1,155 @@
+head	1.7;
+access;
+symbols;
+locks
+	cmalley:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2011.07.13.04.11.42;	author cmalley;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2011.07.13.03.29.33;	author cmalley;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2011.01.02.05.40.15;	author cmalley;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2008.04.27.18.33.56;	author cmalley;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2008.04.27.18.04.46;	author cmalley;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2008.04.27.17.52.47;	author cmalley;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2008.04.27.16.53.20;	author cmalley;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.7
+log
+@*** empty log message ***
+@
+text
+@<b>Interpretations</b> (2008) is a collection of jazz standards. It was my first adventure as a solo artists, arranger and band leader. I went into this trying to come out with a "live" feeling CD. So there was no rehearsal for this session, other than 10 minutes before each take. There were also no overdubs of any kind. And all the percussion sounds on the Latin tunes where played by me live in the studio. At the end of the day, I wanted the band to sound exactly the same live as we did in the studio. I hope you my enjoy interpretations of these great jazz standards!!
+<p>
+<b>Where to purchase ...</b>
+<p>
+Please send me an email at <a href="mailto:drumndino@@earthlink.net?subject=Interpretations CD order">drumndino@@earthlink.net</a> to order a copy.
+<p>
+<b>Listen! ...</b>
+<p>
+Go to my <a href="audio.php">Audio</a> page to hear clips from the CD!
+@
+
+
+1.6
+log
+@*** empty log message ***
+@
+text
+@d9 1
+a9 1
+Go to my <a href="http://www.deanoldencottdrummer.com/audio.php">Audio</a> page to hear clips from the CD!
+@
+
+
+1.5
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<b>Interpretations</b> is a collection of jazz standards. It's my first adventure as a solo artists, arranger and band leader. I went into this trying to come out with a "live" feeling CD. So there was no rehearsal for this session, other than 10 minutes before each take. There were also no overdubs of any kind. And all the percussion sounds on the Latin tunes where played by me live in the studio. At the end of the day, I wanted the band to sound exactly the same live as we did in the studio. I hope you my enjoy interpretations of these great jazz standards!!
+a9 23
+<p>
+<b>Production notes ...</b>
+<p>
+This CD was recorded in the basement of a house in Littleton, CO, using ProTools HD recording software. All of the tunes with the band were recorded on April 23rd, 2007, over the course of about 10 hours. Cherokee (drum solo) was recorded on the morning of April 25th.
+All mixing and mastering took place over the summer of 2007, at <a href="http://www.drumoverdubs.com" target="_default">The Wrecking Room</a>, Lyons, CO. Artwork and CD design was done in December 2007.  All the work on this project, from recording to mixing to art design, was done using Macintosh computers.
+<p>
+<b>Thanks ...</b>
+<p>
+First and foremost to my mom & dad... Thanks for always supporting me in my dreams! To my sisters Lisa & Laura, I love you both very much. And to the rest of my Texas family, Robert, Rich, Ashley, Emily, Amber, and Ian.
+<p>
+To my Colorado family... Ian & Wendy & baby Sarah, Brian, Richy and Roachy and the rest of the Moab clan, many thanks. To Chris my web guy, many, many thanks. And to all my students and their parents, thanks for giving me a job I love.
+<p>
+To my band... Eric Gunnison, Justin Adams, and Mark Simon, thanks for bringing so much to this recording, I love you guys!!!!!  Also to Tyler Soifer and Brian McCrae for their incredible work in the studios. Finally, to Todd Reid for putting the finishing touches on this project with his great artwork.
+<p>
+To Fritz von Valtier and Scott Davies, drum makers extrodinaire... Thanks for making such amazing and expressive instruments!
+<p>
+And finally... Extra special thanks goes to my black lab Sam for patiently waiting every morning for me to finish practicing, so we could go on our daily trail run!!!
+<p>
+<b>Dedication ...</b>
+<p>
+This CD is dedicated to my parents, Fredrick & Gloria Oldencott. April of 2007 was the beginning of a tough year for my family as my mother was recoverying from brain surgery. Every day leading up to the recording I was practicing 3 to 4 hours a day, waiting  for a phone call to hear how mom was doing. It was tough being so far away and I found my drumming became my own therapy. I like to think a lot of my love for my mom went into this recording. I am happy to report that a year later my mom is doing well and planning on being around for many more years, to hear me record many more CDs.I love you Mom!
+<p>
+To my "Pops", thanks for handing me that Clifford Brown / Max Roach record as a kid, and for giving me my love for jazz. There isn't enough space on this page to describe how fortunate I feel to have you as my father. I love you man!!
+@
+
+
+1.4
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<b>Interpretations</b> is a collection of jazz standards. It's my first adventure as a solo artists, arranger and band leader. I went into this trying to come out with a "live" feeling CD. So there was no rehearsal for this session, other than 10 minutes before each take. There was also no overdubs of any kind. And all the percussion sounds on the Latin tunes where played by me live in the studio. At the end of the day, I wanted the band to sound exactly the same live as we did in the studio. I hope you my enjoy interpretations of these great jazz standards!!
+d5 1
+a5 1
+I'm still getting my online store together. In the meantime, please send me an email at <a href="mailto:drumndino@@earthlink.net?subject=Interpretations CD order">drumndino@@earthlink.net</a> to order a copy.
+d9 1
+a9 1
+Go to my <a href="http://www.deanoldencottdrummer.com/audio.php">Audio</a> page to hear clips from the new CD!
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d1 1
+a1 1
+<b>Interpretations</b> is my first adventure as a solo artists, arranger, band leader. I went into this trying to come out with a "live" feeling CD. So there was no rehearsal for this session, other than 10 minutes before each take. There was also no overdubs of any kind. And all the percussion sounds on the Latin tunes where played by me live in the studio. At the end of the day, I wanted the band to sound exactly the same live as we did in the studio. I hope you my enjoy interpretations of these great jazz standards!!
+@
+
+
+1.2
+log
+@*** empty log message ***
+@
+text
+@d7 3
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 5
+@
