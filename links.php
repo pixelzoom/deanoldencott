@@ -96,7 +96,7 @@
             </td>
             <td valign="top">
               <center>
-                <a href="http://www.evergreenplayers.org" target="_blank"><img src="links/evergreenplayers.jpg"><br>Evergreen Players</a><br>
+                <a href="http://www.evergreenchorale.org" target="_blank"><img src="links/evergreenchorale.jpg"><br>Evergreen Chorale</a><br>
               </center>
             </td>
           </tr>
