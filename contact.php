@@ -42,7 +42,7 @@ Click here for map.
               Email: 
 <script>
     //protect email address from spambots
-    var emailAddress=('dean' + '@' + 'deanoldencott' + '.com');
+    var emailAddress=('deanoldencott' + '@' + 'gmail' + '.com');
     document.write('<a href="mailto:' + emailAddress + '">' + emailAddress + '</a>');
 </script>
             </td>
